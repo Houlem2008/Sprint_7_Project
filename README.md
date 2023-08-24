@@ -1,7 +1,7 @@
 # Sprint_7_Project
 TripleTen Sprint 7 Final Project
 
-My Sprint 7 Project - Sprint Length was 2 weeks.
+My Sprint 7, Introduction to Machine Learning, project. Sprint length was 2 weeks.
 
 Instructions provided by TripleTen program:
 
